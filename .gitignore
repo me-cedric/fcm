@@ -1,4 +1,3 @@
-dist/
 node_modules/
 sensitive/
 
@@ -7,8 +6,6 @@ Build
 *.iml
 .idea
 .DS_Store
-
-package-lock.json
 
 # Xcode
 *.pbxuser
